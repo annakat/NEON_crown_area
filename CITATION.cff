@@ -1,0 +1,13 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Schweiger
+    given-names: "Anna K."
+    orcid: "https://orcid.org/0000-0002-5567-4200"
+cff-version: "1.1.0"
+license: MIT
+message: "If you use this software, please cite it using these metadata."
+title: "NEON_crown_area"
+version: "1.0"
+...
